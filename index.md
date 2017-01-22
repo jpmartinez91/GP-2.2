@@ -8,10 +8,14 @@ El procesamiento de Lenguaje Natural o PLN es un campo de las ciencias de la com
 
 ### Normalizado de texto
 
-1. Elimnar para vacias como por ejemplo: un, una, la. Son palabras que impiden el correcto armado de corpus (texto a procesar).
+ 1. Elimnar para vacias como por ejemplo: un, una, la. Son palabras que impiden el correcto armado de corpus (texto a procesar).
  
  2.Tokenizacion o segmentacion de texto en oraciones. Se refiere a la segmentacion del texto por coma (,) y conjuncion (y/e).
  
+```markdown
+
+Mantenimiento correctivo y preventivo de Pcs, perifericos hardware, soluciones software, atencion al cliente
+
 
 ### Etiquetado con Software libre (Online)
 
