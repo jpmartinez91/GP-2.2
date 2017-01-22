@@ -54,12 +54,13 @@ NCFP000        NCMN000
 atencion       cliente
 atencion       cliente
 NCFS000        NCCS000
-
+------------------------------------
 ```
 
 ### Cálculo de coeficiente de Kappa Cohen
 
-ss
+El Coeficiente kappa de Cohen mide la concordancia entre dos examinadores en sus correspondientes clasificaciones de N elementos en C categorías
+Hay que tener en cuenta que la kappa de Cohen sólo mide el acuerdo entre dos observadores.
 
 ### Identificacion del dominio y nivel cognitivo
  
