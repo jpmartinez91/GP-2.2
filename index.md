@@ -13,20 +13,49 @@ El procesamiento de Lenguaje Natural o PLN es un campo de las ciencias de la com
  2.Tokenizacion o segmentacion de texto en oraciones. Se refiere a la segmentacion del texto por coma (,) y conjuncion (y/e).
  
 ```markdown
-### Texto original
-Mantenimiento correctivo y preventivo de Pcs, perifericos hardware, soluciones software, atencion al cliente
 
-### Texto normalizado
+**Texto original**
+
+Mantenimiento correctivo y preventivo de Pcs, perifericos hardware, 
+soluciones software, atencion al cliente
+
+**Texto normalizado**
+
 Mantenimiento correctivo
 preventivo de Pcs
 perifericos hardware
 soluciones software
-atencion al cliente
+atencion cliente
 ```
 
 ### Etiquetado con Software libre (Online)
 
-ss
+El etiquetado del texto parte del tezto normalizado
+
+Se hace uso de la herramienta web [FreeLing 4.0] (http://nlp.lsi.upc.edu/freeling/demo/demo.php), en donde se obtiene una estructura parecida a:
+
+```markdown
+Mantenimiento  correctivo
+mantenimiento  correctivo
+NCMS000        AQ0MS00
+------------------------------------
+preventivo     de          Pcs
+preventivo     de          pcs
+NCMS000        SP          NP00000
+------------------------------------
+perifericos    hardware
+perifericos    hardware
+AQ0MP00        NCMS000
+------------------------------------
+soluciones     software
+solución       software
+NCFP000        NCMN000
+------------------------------------
+atencion       cliente
+atencion       cliente
+NCFS000        NCCS000
+
+```
 
 ### Cálculo de coeficiente de Kappa Cohen
 
