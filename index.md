@@ -65,7 +65,48 @@ Hay que tener en cuenta que la kappa de Cohen sólo mide el acuerdo entre dos ob
 
 ### Identificacion del dominio y nivel cognitivo
  
-ss
+diseñador y administrador de sistemas de comunicación de datos
+
+A partir de una taxonomia:
+
+```markdown
+- diseñar
+- administrar
+```
+
+el domonio cognitivo es:
+
+```markdown
+- crear
+- crear
+```
+
+el nivel cognitivo de "crear" es: ```  5```
+
+************************************
+
+operación y mantenimiento de sistemas electrónicos
+
+
+A partir de una taxonomia:
+
+```markdown
+- operación 
+- mantenimiento
+```
+
+el domonio cognitivo es:
+
+```markdown
+- aplicar
+- evaluar
+```
+
+nivel cognitivo es:
+
+```markdown
+- aplicar  3
+- evaluar  6
 
 ### Armado de Ontologia
 
