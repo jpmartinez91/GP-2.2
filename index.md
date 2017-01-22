@@ -1,6 +1,8 @@
 # Procesamiento de Lenguaje Natural
 
+[PLN] (https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMSPSC0ooQpZVdv71LEvR3RMilxk3UGeLEVgZ2rwA6sg5jNdiC)
 
+El procesamiento de Lenguaje Natural o PLN es un campo de las ciencias de la computación, inteligencia artificial y lingüística que estudia las interacciones entre las computadoras y el lenguaje humano. El PLN no trata de la comunicación por medio de lenguajes naturales de una forma abstracta, sino de diseñar mecanismos para comunicarse que sean eficaces computacionalmente —que se puedan realizar por medio de programas que ejecuten o simulen la comunicación
 
 You can use the [editor on GitHub](https://github.com/jpmartinez91/GP-2.2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
