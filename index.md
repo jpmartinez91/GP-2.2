@@ -29,18 +29,31 @@ ss
 ## Desarrollo aplicacion
 
 ### Familiarizacion de libreria NLTK de Python
+
 ss
+
 ### Familiarizacion de extension Stanford para NLTK
+
 ss
+
 ### Normalizado de texto
+
 ss
+
 ### Tokenizacion de Oraciones y Palabras
+
 ss
+
 ### Etiquetado del texto
+
 ss
+
 ### Identificacion de oraciones candidatas
+
 ss
+
 ### Documentacion de analisis de texto analizados  
+
 
 You can use the [editor on GitHub](https://github.com/jpmartinez91/GP-2.2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
