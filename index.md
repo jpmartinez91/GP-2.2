@@ -16,8 +16,8 @@ El procesamiento de Lenguaje Natural o PLN es un campo de las ciencias de la com
 
 **Texto original**
 
-Mantenimiento correctivo y preventivo de Pcs, perifericos hardware, 
-soluciones software, atencion al cliente
+Mantenimiento correctivo y preventivo de Pcs, perifericos
+hardware, soluciones software, atencion al cliente
 
 **Texto normalizado**
 
@@ -60,6 +60,7 @@ NCFS000        NCCS000
 ### Cálculo de coeficiente de Kappa Cohen
 
 El Coeficiente kappa de Cohen mide la concordancia entre dos examinadores en sus correspondientes clasificaciones de N elementos en C categorías
+
 Hay que tener en cuenta que la kappa de Cohen sólo mide el acuerdo entre dos observadores.
 
 ### Identificacion del dominio y nivel cognitivo
