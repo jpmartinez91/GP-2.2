@@ -74,14 +74,12 @@ A partir de una taxonomia:
 - administrar
 ```
 
-el domonio cognitivo es:
+el domonio y nivel cognitivo es:
 
 ```markdown
-- crear
-- crear
+- crear   5
+- crear   5
 ```
-
-el nivel cognitivo de "crear" es: ```  5```
 
 ************************************
 
@@ -95,14 +93,7 @@ A partir de una taxonomia:
 - mantenimiento
 ```
 
-el domonio cognitivo es:
-
-```markdown
-- aplicar
-- evaluar
-```
-
-nivel cognitivo es:
+el domonio y nivel cognitivo es:
 
 ```markdown
 - aplicar  3
