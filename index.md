@@ -13,9 +13,16 @@ El procesamiento de Lenguaje Natural o PLN es un campo de las ciencias de la com
  2.Tokenizacion o segmentacion de texto en oraciones. Se refiere a la segmentacion del texto por coma (,) y conjuncion (y/e).
  
 ```markdown
-
+### Texto original
 Mantenimiento correctivo y preventivo de Pcs, perifericos hardware, soluciones software, atencion al cliente
 
+### Texto normalizado
+Mantenimiento correctivo
+preventivo de Pcs
+perifericos hardware
+soluciones software
+atencion al cliente
+```
 
 ### Etiquetado con Software libre (Online)
 
