@@ -126,61 +126,24 @@ import nltk
 nltk.download()
 ```
 
-### Familiarizacion de extension Stanford para NLTK
+### Familiarizacion de extension Stanford Natural Language Processing Group para NLTK
 
-ss
+Dado que NLTK no provee una gama amplia de funcionalidades para el idioma Español, se examino las librerias provistas por [Stanford] (http://nlp.stanford.edu/software/) la cuál potencializa las funcionales de NLTK.
 
 ### Normalizado de texto
 
-ss
+
 
 ### Tokenizacion de Oraciones y Palabras
 
-ss
+
 
 ### Etiquetado del texto
 
-ss
+Para el etiquetado del texto se parte del texto de un texto de entrenamiento que basicamente fue el etiquetado manual del texto
 
 ### Identificacion de oraciones candidatas
 
-ss
+La identificacion de las oraciones candidatas se realizo haciendo uso del etiquetado manual del texto del cual se obtuvieron algunos patrones o sintagmas que sirven como punto base para la identificacion de las oraciones. 
 
 ### Documentacion de analisis de texto analizados  
-
-
-You can use the [editor on GitHub](https://github.com/jpmartinez91/GP-2.2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered 
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jpmartinez91/GP-2.2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
