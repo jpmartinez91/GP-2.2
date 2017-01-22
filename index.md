@@ -102,13 +102,29 @@ el domonio y nivel cognitivo es:
 
 ### Armado de Ontologia
 
-ss
+Para la creacion de la ontologia se partio por la toxonomia de las oraciones tokenizadas.
+
+Se hizo uso del sofware libre "protege' en su version 5.1.0 el cual sirvio para crear la ontologia de los verbos encontrados en los textos procesados.
 
 ## Desarrollo aplicacion
 
 ### Familiarizacion de libreria NLTK de Python
 
-ss
+NLTK es una plataforma líder para la creación de programas de Python para trabajar con los datos del lenguaje humano. Proporciona interfaces fáciles de usar para más de 50 corpus y recursos léxicos como WordNet, junto con un conjunto de bibliotecas de procesamiento de texto para la clasificación, tokenización, derivado, etiquetado, análisis y de razonamiento semántico, contenedores para las bibliotecas de PNL de potencia industrial
+
+```markdown
+Instalar NLTK: ejecutar sudo pip install -U nltk
+```
+
+Luego se debe descargar los diferentes componentes provistos por NLTK
+
+Desde el interprete de python se debe importar la libreria NLTK y descargar los componentes y corpus necesarios para el trabajo a realizar
+
+```markdown
+import nltk
+
+nltk.download()
+```
 
 ### Familiarizacion de extension Stanford para NLTK
 
