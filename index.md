@@ -107,6 +107,7 @@ nivel cognitivo es:
 ```markdown
 - aplicar  3
 - evaluar  6
+```
 
 ### Armado de Ontologia
 
